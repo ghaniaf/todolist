@@ -1,9 +1,9 @@
-#Aplikasi To-Do List
+# Aplikasi To-Do List
 
-##Deskripsi
+## Deskripsi
 Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 
-##Fitur
+## Fitur
 - Tambah tugas
 - Tandai tugas selesai
 - Hapus tugas
@@ -11,9 +11,9 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian.
 ## Struktur Folder
 - `index.php` - halaman utama
 
-##Cara Menjalankan
+## Cara Menjalankan
 1. Salin folder ke `htdocs/`
 2. Jalankan XAMPP dan buka di `https://localhost/todolist`
 
-##Kontributor
+## Kontributor
 - Ghania Fazila (https://github.com/ghaniaf/)
